@@ -1,6 +1,8 @@
 android_music_search
 ====================
 
+Date: Spring Semester 2013 USC 
+
 project info:
   This is the final project of csci 571 - web technologies.
   The android app shall fetch and show the result data from 
